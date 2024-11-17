@@ -9,7 +9,7 @@ with (HERE / "requirements.txt").open() as f:
 
 setup(
     name="marketdl",
-    version="0.1.0",
+    version="0.1.1",
     description="Reproducible market data downloader",
     long_description=README,
     long_description_content_type="text/markdown",
